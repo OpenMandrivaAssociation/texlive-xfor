@@ -53,3 +53,16 @@ terminate until the end of the current iteration.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.05-2
++ Revision: 757646
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.05-1
++ Revision: 719936
+- texlive-xfor
+- texlive-xfor
+- texlive-xfor
+
