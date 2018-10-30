@@ -6,7 +6,7 @@
 # catalog-version 1.05
 Name:		texlive-xfor
 Version:	1.05
-Release:	10
+Release:	11
 Summary:	A reimplimentation of the LaTeX for-loop macro
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xfor
