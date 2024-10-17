@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A reimplimentation of the LaTeX for-loop macro
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xfor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xfor
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xfor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xfor.doc.r%{version}.tar.xz
